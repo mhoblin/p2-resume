@@ -5,3 +5,52 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+body{
+	color: #FAF7EE;
+	height: 100%;
+	background: url("../img/legs.png") center top no-repeat #292929;
+	background-size: cover;
+	margin: 5px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+	background: #292929;
+	opacity: .7;
+	padding: 1px 0px 1px 0px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+h3 + p {
+	text-indent: 20px;
+}
+
+
+h1 {
+	text-transform: uppercase;
+	font-size: 7em;
+} 
+
+h1 > span{
+	letter-spacing: 10px;
+}
+
+#major {
+	font-size: 40px;
+}
+
+footer {
+	font-size: 12px;
+	text-align: center;
+	background: #292929;
+	opacity: .7;
+	padding: 1px 0px 1px 0px;
+	line-height: .2em;
+	border-radius: 25px;
+	margin-bottom: 10px;
+}
+
+.info {
+	}
