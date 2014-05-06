@@ -45,15 +45,16 @@ h1 > span{
 }
 
 footer {
-	font-size: 12px;
 	text-align: center;
 	padding: 1px 0px 3px 0px;
 	border-radius: 25px;
 	margin: 70px 0 10px 0;
 }
 
-.btn {
-	height: 10px;
+img {
+	height: 80px;
+	margin: 15px;
+	opacity: .8;
 }
 
 
